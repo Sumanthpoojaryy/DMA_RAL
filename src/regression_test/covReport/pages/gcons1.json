@@ -1,0 +1,12 @@
+var g_db_data = [
+{dummy:0},
+{name:'intr_cov',f:1,type:6,id:745,tb:'5',h:'5',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/intr_reg',parent:'744'},
+{name:'ctrl_cov',f:1,type:6,id:754,tb:'11',h:'11',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/ctrl_reg',parent:'753'},
+{name:'io_addr_cov',f:1,type:6,id:765,tb:'3',h:'2',m:'1',hp:'66.66%',cov:['66.66%','Y'],g:'100.00%',gp:['66.66%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/io_addr_reg',parent:'764'},
+{name:'mem_addr_cov',f:1,type:6,id:770,tb:'3',h:'3',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/mem_addr_reg',parent:'769'},
+{name:'extra_info_cov',f:1,type:6,id:775,tb:'3',h:'2',m:'1',hp:'66.66%',cov:['66.66%','Y'],g:'100.00%',gp:['66.66%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/extra_info_reg',parent:'774'},
+{name:'descriptor_addr_cov',f:1,type:6,id:782,tb:'3',h:'3',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/descriptor_addr_reg',parent:'781'},
+{name:'error_cov',f:1,type:6,id:787,tb:'10',h:'10',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/error_status_reg',parent:'786'},
+{name:'config_cov',f:1,type:6,id:800,tb:'18',h:'16',m:'2',hp:'88.88%',cov:['91.66%','G'],g:'100.00%',gp:['91.66%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/config_reg',parent:'799'},
+{name:'dma_reg_cg',f:1,type:6,id:823,tb:'54',h:'54',m:'0',hp:'100.00%',cov:['100.00%','G'],g:'100.00%',gp:['100.00%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/dma_pkg/dma_subscriber',parent:'822'}];
+processConsCovergroupsData(g_db_data);

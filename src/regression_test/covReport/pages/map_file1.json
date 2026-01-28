@@ -1,0 +1,13 @@
+var g_data = {'dummy':{null},
+'/dma_pkg/intr_reg':{h:'744',g:1,z:1},
+'/dma_pkg/ctrl_reg':{h:'753',g:1,z:1},
+'/dma_pkg/io_addr_reg':{h:'764',g:1,z:1},
+'/dma_pkg/mem_addr_reg':{h:'769',g:1,z:1},
+'/dma_pkg/extra_info_reg':{h:'774',g:1,z:1},
+'/dma_pkg/descriptor_addr_reg':{h:'781',g:1,z:1},
+'/dma_pkg/error_status_reg':{h:'786',g:1,z:1},
+'/dma_pkg/config_reg':{h:'799',g:1,z:1},
+'/dma_pkg/top_adapter/bus2reg':{h:'816',a:1,z:1},
+'/dma_pkg/dma_subscriber':{h:'822',g:1,z:1},
+'work.dma_pkg':{h:'4',z:1},
+'/dma_pkg':{h:'741',z:1}};

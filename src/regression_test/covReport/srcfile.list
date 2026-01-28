@@ -1,0 +1,4 @@
+dma_adapter.sv
+dma_pkg.sv
+dma_registers.sv
+dma_subscriber.sv

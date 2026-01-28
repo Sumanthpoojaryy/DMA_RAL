@@ -1,0 +1,5 @@
+var g_data = {'dummy':null,
+'2':'dma_adapter.sv',
+'4':'dma_pkg.sv',
+'1':'dma_registers.sv',
+'3':'dma_subscriber.sv'};
